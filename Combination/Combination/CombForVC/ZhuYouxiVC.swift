@@ -81,7 +81,6 @@ class ZhuYouxiVC: UIViewController {
         
         // 保存游戏记录（如果游戏时间大于5秒且还未保存）
         if gameTime > 5 && !gameRecordSaved {
-            print("🚪 Leaving game, saving record...")
             saveGameRecord()
         }
     }
@@ -402,12 +401,6 @@ class ZhuYouxiVC: UIViewController {
             return
         }
         
-        // 检测设备类型和兼容模式
-        let isIPad = UIDevice.current.userInterfaceIdiom == .pad
-        let screenScale = UIScreen.main.scale
-        let screenSize = UIScreen.main.bounds.size
-        
-        
         // 根据游戏模式和牌数动态计算布局
         let cardsPerRow = 8
         let expectedRows = gameMode == .advanced ? 4 : 2
@@ -432,15 +425,10 @@ class ZhuYouxiVC: UIViewController {
         var dynamicCardSize: CGFloat
         var adjustedSpacing: CGFloat
         
-        if isIPad {
-            // iPad上运行时，适当增大卡片尺寸以更好利用空间
-            dynamicCardSize = min(maxCardWidth, maxCardHeight, cardSize * 1.2)
-            adjustedSpacing = gameMode == .advanced ? max(4, cardSpacing) : cardSpacing * 1.2
-        } else {
+    
             // iPhone上保持原有逻辑
             dynamicCardSize = min(maxCardWidth, maxCardHeight, cardSize)
             adjustedSpacing = gameMode == .advanced ? max(2, cardSpacing - 2) : cardSpacing
-        }
         
         
         // 最终调整以确保适应容器
@@ -488,7 +476,6 @@ class ZhuYouxiVC: UIViewController {
             topContainerView.addSubview(cardView)
         }
         
-        print("✅ \(mahjongCards.count) cards displayed in \(gameMode) mode with size: \(finalCardSize), spacing: \(finalSpacing)")
     }
     
     private func createCardView(for card: MahjongCard) -> UIView {
@@ -510,7 +497,6 @@ class ZhuYouxiVC: UIViewController {
         
         // 如果图片加载失败，显示调试信息
         if imageView.image == nil {
-            print("⚠️ Warning: Image '\(card.imageName)' not found for card: \(card.displayName)")
             
             // 添加文本标签作为回退显示
             let fallbackLabel = UILabel()
@@ -600,7 +586,6 @@ class ZhuYouxiVC: UIViewController {
         if selectedCards.isEmpty || selectedCards.count < 3 {
             let cardManager = MahjongDataManager.shared
             if mahjongCards.count >= 3 && !cardManager.hasValidCombinations(mahjongCards) {
-                print("🚫 Deadlock detected during gameplay, auto-refreshing...")
                 autoRefreshCards()
             }
         }
@@ -715,13 +700,9 @@ class ZhuYouxiVC: UIViewController {
     
     // 检查游戏状态：死锁检测和自动刷新
     private func checkGameState() {
-        print("🔍 Checking game state...")
-        print("   Remaining cards: \(mahjongCards.count)")
-        print("   Selected cards: \(selectedCards.count)")
         
         // 如果剩余牌数少于3张，结束回合
         if mahjongCards.count < 3 {
-            print("📋 Not enough cards left, ending round...")
             endRound()
             return
         }
@@ -729,17 +710,13 @@ class ZhuYouxiVC: UIViewController {
         // 检查是否存在可能的顺子组合
         let cardManager = MahjongDataManager.shared
         if !cardManager.hasValidCombinations(mahjongCards) {
-            print("🚫 No valid combinations possible, auto-refreshing cards...")
             autoRefreshCards()
         } else {
-            print("✅ Valid combinations still possible, continuing game...")
         }
     }
     
     // 自动刷新牌组
     private func autoRefreshCards() {
-        print("🔄 Auto-refreshing card deck...")
-        
         // 显示提示信息
         showAutoRefreshAlert {
             // 清除当前选择
@@ -748,8 +725,6 @@ class ZhuYouxiVC: UIViewController {
             
             // 生成新的牌组
             self.generateNewRound()
-            
-            print("✅ Card deck auto-refreshed successfully")
         }
     }
     
@@ -853,14 +828,9 @@ class ZhuYouxiVC: UIViewController {
     private func saveGameRecord() {
         // 防止重复保存
         guard !gameRecordSaved else { 
-            print("⚠️ Game record already saved, skipping...")
-            return 
+
+            return
         }
-        
-        print("💾 Saving game record...")
-        print("   Score: \(currentScore)")
-        print("   Mode: \(gameMode)")
-        print("   Duration: \(gameTime)")
         
         let record = GameRecord(
             date: Date(),
@@ -872,11 +842,8 @@ class ZhuYouxiVC: UIViewController {
         // 保存到本地存储
         GameRecordManager.shared.saveRecord(record)
         gameRecordSaved = true
-        print("✅ Game record saved successfully: \(record)")
-        
         // 验证保存是否成功
         let allRecords = GameRecordManager.shared.getAllRecords()
-        print("📊 Total records after save: \(allRecords.count)")
     }
     
     // MARK: - Feedback & Rating

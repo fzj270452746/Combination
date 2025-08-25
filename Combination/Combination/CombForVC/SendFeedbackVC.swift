@@ -117,10 +117,7 @@ class SendFeedbackVC: UIViewController {
             showAlert(title: "Error", message: "Please enter your feedback before submitting.")
             return
         }
-        
-        // 这里可以发送反馈到服务器或保存到本地
-        print("Feedback submitted: \(feedback)")
-        
+
         showAlert(title: "Success", message: "Thank you for your feedback!") { [weak self] in
             self?.dismiss(animated: true)
         }

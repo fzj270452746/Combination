@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  Combination
-//
-//  Created by Zhao on 2025/8/23.
-//
+
 
 import UIKit
 

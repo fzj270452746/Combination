@@ -157,9 +157,6 @@ class RatingToCombVC: UIViewController {
             return
         }
         
-        // 这里可以发送评分到服务器或保存到本地
-        print("Rating submitted: \(selectedRating) stars")
-        
         showAlert(title: "Thank You!", message: "Your rating has been submitted successfully!") { [weak self] in
             self?.dismiss(animated: true)
         }

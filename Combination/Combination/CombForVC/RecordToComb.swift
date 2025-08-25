@@ -106,15 +106,8 @@ class RecordToComb: UIViewController {
     
     // MARK: - Data Loading
     private func loadGameRecords() {
-        print("🔄 Loading game records...")
+
         gameRecords = GameRecordManager.shared.getAllRecords()
-        print("📊 Loaded \(gameRecords.count) game records")
-        
-        // 打印所有记录用于调试
-        for (index, record) in gameRecords.enumerated() {
-            print("   Record \(index + 1): Score=\(record.score), Mode=\(record.mode), Duration=\(record.duration)")
-        }
-        
         tableView.reloadData()
         
         if gameRecords.isEmpty {
@@ -159,7 +152,6 @@ class RecordToComb: UIViewController {
             self?.gameRecords.removeAll()
             self?.tableView.reloadData()
             self?.showEmptyState()
-            print("🗑️ All game records cleared")
         })
         
         present(alert, animated: true)
@@ -256,7 +248,5 @@ class GameRecordCell: UITableViewCell {
         // 游戏模式 - 英文显示
         let modeText = record.mode == .comfort ? "Comfort Mode" : "Advanced Mode"
         modeLabel.text = modeText
-        
-        print("🎯 Configured cell - Score: \(record.score), Mode: \(modeText)")
     }
 }

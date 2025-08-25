@@ -1,9 +1,3 @@
-//
-//  CombinationModel.swift
-//  Combination
-//
-//  Created by Zhao on 2025/8/23.
-//
 
 import Foundation
 import UIKit
@@ -132,8 +126,6 @@ class MahjongDataManager {
             MahjongCard(imageName: "uu7_77_m", suit: .tong, number: 8, displayName: "8 Tong (2)"),
             MahjongCard(imageName: "uu7_79_m", suit: .tong, number: 9, displayName: "9 Tong (2)")
         ])
-        
-        print("🎴 MahjongDataManager initialized with \(allCards.count) cards")
     }
     
     // 获取随机麻将牌

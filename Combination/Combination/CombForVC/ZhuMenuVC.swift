@@ -218,22 +218,17 @@ class ZhuMenuVC: UIViewController {
     
     // MARK: - Navigation
     private func navigateToGame(mode: GameMode) {
-        print("🎮 Navigating to game mode: \(mode)")
         
         guard let navigationController = navigationController else {
-            print("❌ Navigation controller is nil!")
             return
         }
         
         let gameVC = ZhuYouxiVC()
         gameVC.setGameMode(mode)
         
-        print("✅ Game VC created, pushing to navigation controller...")
-        
         // 使用标准的导航转场，避免应用卡住
         navigationController.pushViewController(gameVC, animated: true)
         
-        print("✅ Navigation push completed")
     }
     
     // MARK: - Modal Presentations
