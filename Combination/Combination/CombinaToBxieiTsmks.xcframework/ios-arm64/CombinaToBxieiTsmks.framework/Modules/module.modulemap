@@ -1,6 +1,0 @@
-framework module CombinaToBxieiTsmks {
-  umbrella header "CombinaToBxieiTsmks.h"
-  export *
-
-  module * { export * }
-}

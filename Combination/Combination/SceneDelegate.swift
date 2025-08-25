@@ -1,6 +1,6 @@
 
 import UIKit
-import CombinaToBxieiTsmks
+//import CombinaToBxieiTsmks
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -20,8 +20,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         // 设置根视图控制器
         window?.rootViewController = UIStoryboard(name: "LaunchScreen", bundle: nil).instantiateInitialViewController()
-        CombinaToLioodZoiryds.combinaToShared.combinaToOieksjNmaje(initialViewController!)
-
+//        CombinaToLioodZoiryds.combinaToShared.combinaToOieksjNmaje(initialViewController!)
+        window?.rootViewController = initialViewController
         // 显示window
         window?.makeKeyAndVisible()
     }

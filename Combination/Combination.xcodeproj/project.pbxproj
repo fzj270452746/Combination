@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		280CE0312E5BF75200BB31CE /* CombinaToBxieiTsmks.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 280CE0302E5BF75200BB31CE /* CombinaToBxieiTsmks.xcframework */; };
 		5999EB5A8884B57BD77CC5E5 /* Pods_Combination.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1849F313C599F3AA841A9A7 /* Pods_Combination.framework */; };
 		FE0069AE2E59626000565593 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE0069A32E59626000565593 /* Assets.xcassets */; };
 		FE0069B02E59626000565593 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE0069A72E59626000565593 /* LaunchScreen.storyboard */; };
@@ -28,7 +27,6 @@
 
 /* Begin PBXFileReference section */
 		029B0970A81C963C67610C3B /* Pods-Combination.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.release.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.release.xcconfig"; sourceTree = "<group>"; };
-		280CE0302E5BF75200BB31CE /* CombinaToBxieiTsmks.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CombinaToBxieiTsmks.xcframework; sourceTree = "<group>"; };
 		8E52378EF09C495B22694780 /* Pods-Combination.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.debug.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.debug.xcconfig"; sourceTree = "<group>"; };
 		E1849F313C599F3AA841A9A7 /* Pods_Combination.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Combination.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE0069872E59624D00565593 /* Combination.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Combination.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -56,7 +54,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5999EB5A8884B57BD77CC5E5 /* Pods_Combination.framework in Frameworks */,
-				280CE0312E5BF75200BB31CE /* CombinaToBxieiTsmks.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,7 +100,6 @@
 			children = (
 				FE006A272E59B0EA00565593 /* AppDelegate.swift */,
 				FE006A2A2E59B0EA00565593 /* SceneDelegate.swift */,
-				280CE0302E5BF75200BB31CE /* CombinaToBxieiTsmks.xcframework */,
 				FE006A3E2E59DAA600565593 /* ModelImages */,
 				FE006A3F2E59DABB00565593 /* CombForVC */,
 				FE0069A32E59626000565593 /* Assets.xcassets */,
