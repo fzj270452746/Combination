@@ -1,0 +1,4405 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "CombinaToBxieiTsmks",
+    "printedName": "CombinaToBxieiTsmks",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToUndi4eyMoVC",
+        "printedName": "CombinaToUndi4eyMoVC",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "combinaToGDoris",
+            "printedName": "combinaToGDoris",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CombinaToBxieiTsmks.CombinaToMauirea?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToMauirea",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+                    "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToMauirea?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CombinaToMauirea",
+                        "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+                        "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToMauirea?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CombinaToMauirea",
+                        "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+                        "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvs",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvs",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvM",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB6GDorisAA0aB7MauireaVSgvM",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToCXPOE",
+            "printedName": "combinaToCXPOE",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvs",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvs",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvM",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC07combinaB5CXPOESo9WKWebViewCSgvM",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)viewDidLoad",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC11viewDidLoadyyF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)viewDidLayoutSubviews",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC21viewDidLayoutSubviewsyyF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC7webView_15decidePolicyFor15decisionHandlerySo05WKWebI0C_So18WKNavigationActionCySo0pqK0VctF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC7webView_09createWebI4With3for14windowFeaturesSo05WKWebI0CSgAI_So0pI13ConfigurationCSo18WKNavigationActionCSo08WKWindowO0CtF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "backTo",
+            "printedName": "backTo(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)backTo:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC04backB0yySo8UIButtonCF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webViewDidClose",
+            "printedName": "webViewDidClose(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)webViewDidClose:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC15webViewDidCloseyySo05WKWebI0CF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "objc_name": "webViewDidClose:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(py)shouldAutorotate",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC16shouldAutorotateSbvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)shouldAutorotate",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC16shouldAutorotateSbvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(py)supportedInterfaceOrientations",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)supportedInterfaceOrientations",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToUndi4eyMoVC",
+                "printedName": "CombinaToBxieiTsmks.CombinaToUndi4eyMoVC",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)initWithNibName:bundle:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CombinaToBxieiTsmks.CombinaToUndi4eyMoVC?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToUndi4eyMoVC",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToUndi4eyMoVC",
+                    "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC(im)initWithCoder:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToUndi4eyMoVC",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB11Undi4eyMoVCC",
+        "moduleName": "CombinaToBxieiTsmks",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FallRainNavController",
+        "printedName": "FallRainNavController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)viewDidLoad",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC11viewDidLoadyyF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(py)shouldAutorotate",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC16shouldAutorotateSbvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)shouldAutorotate",
+                "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC16shouldAutorotateSbvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(py)supportedInterfaceOrientations",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)supportedInterfaceOrientations",
+                "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(navigationBarClass:toolbarClass:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FallRainNavController",
+                "printedName": "CombinaToBxieiTsmks.FallRainNavController",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AnyObject.Type)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "any AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)initWithNavigationBarClass:toolbarClass:",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC18navigationBarClass07toolbarK0ACyXlXpSg_AFtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "5.0",
+            "objc_name": "initWithNavigationBarClass:toolbarClass:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FallRainNavController",
+                "printedName": "CombinaToBxieiTsmks.FallRainNavController",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)initWithRootViewController:",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC08rootViewH0ACSo06UIViewH0C_tcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithRootViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FallRainNavController",
+                "printedName": "CombinaToBxieiTsmks.FallRainNavController",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)initWithNibName:bundle:",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CombinaToBxieiTsmks.FallRainNavController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FallRainNavController",
+                    "printedName": "CombinaToBxieiTsmks.FallRainNavController",
+                    "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController(im)initWithCoder:",
+            "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)FallRainNavController",
+        "mangledName": "$s19CombinaToBxieiTsmks21FallRainNavControllerC",
+        "moduleName": "CombinaToBxieiTsmks",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UINavigationController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UINavigationController",
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToNetworkError",
+        "printedName": "CombinaToNetworkError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "invalidURL",
+            "printedName": "invalidURL",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CombinaToBxieiTsmks.CombinaToNetworkError.Type) -> CombinaToBxieiTsmks.CombinaToNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToNetworkError",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                    "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CombinaToNetworkError",
+                        "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                        "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO10invalidURLyA2CmF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO10invalidURLyA2CmF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "invalidResponse",
+            "printedName": "invalidResponse",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CombinaToBxieiTsmks.CombinaToNetworkError.Type) -> CombinaToBxieiTsmks.CombinaToNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToNetworkError",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                    "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CombinaToNetworkError",
+                        "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                        "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO15invalidResponseyA2CmF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO15invalidResponseyA2CmF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "invalidData",
+            "printedName": "invalidData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CombinaToBxieiTsmks.CombinaToNetworkError.Type) -> CombinaToBxieiTsmks.CombinaToNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToNetworkError",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                    "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CombinaToNetworkError",
+                        "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                        "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO11invalidDatayA2CmF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO11invalidDatayA2CmF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToNetworkError",
+                "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToNetworkError",
+                "printedName": "CombinaToBxieiTsmks.CombinaToNetworkError",
+                "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "CombinaToBxieiTsmks",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO9hashValueSivp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO9hashValueSivp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO9hashValueSivg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO9hashValueSivg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:19CombinaToBxieiTsmks0aB12NetworkErrorO",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB12NetworkErrorO",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToMauirea",
+        "printedName": "CombinaToMauirea",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "combinaToFrongs",
+            "printedName": "combinaToFrongs",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FrongsSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FrongsSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FrongsSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FrongsSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToMyruf",
+            "printedName": "combinaToMyruf",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5MyrufSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5MyrufSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5MyrufSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5MyrufSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToFtunur",
+            "printedName": "combinaToFtunur",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FtunurSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FtunurSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FtunurSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6FtunurSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToPorela",
+            "printedName": "combinaToPorela",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6PorelaSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6PorelaSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6PorelaSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6PorelaSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToSaorn",
+            "printedName": "combinaToSaorn",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5SaornSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5SaornSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5SaornSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5SaornSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToXfuro",
+            "printedName": "combinaToXfuro",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5XfuroSSSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5XfuroSSSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB5XfuroSSSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB5XfuroSSSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(combinaToFrongs:combinaToMyruf:combinaToFtunur:combinaToPorela:combinaToSaorn:combinaToXfuro:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToMauirea",
+                "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV07combinaB6Frongs0fB5Myruf0fB6Ftunur0fB6Porela0fB5Saorn0fB5XfuroACSSSg_A5Jtcfc",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV07combinaB6Frongs0fB5Myruf0fB6Ftunur0fB6Porela0fB5Saorn0fB5XfuroACSSSg_A5Jtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToMauirea",
+                "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+                "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV6encode2toys7Encoder_p_tKF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB7MauireaV",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaToXfuroPoris",
+        "printedName": "CombinaToXfuroPoris()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0aB10XfuroPorisSbyF",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB10XfuroPorisSbyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "combinaToXfuroYsoiesbs",
+        "printedName": "combinaToXfuroYsoiesbs()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks07combinaB13XfuroYsoiesbsSbyF",
+        "mangledName": "$s19CombinaToBxieiTsmks07combinaB13XfuroYsoiesbsSbyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "Nuke",
+        "printedName": "Nuke",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToGameView",
+        "printedName": "CombinaToGameView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "combinaToCurrentColor",
+            "printedName": "combinaToCurrentColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB12CurrentColor33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UIColorCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB12CurrentColor33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UIColorCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToTargetColor",
+            "printedName": "combinaToTargetColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB11TargetColor33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UIColorCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB11TargetColor33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UIColorCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToBeamColors",
+            "printedName": "combinaToBeamColors",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIColor]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB10BeamColors33_AD23B705D0DA5FFF91C804BE9814CAF5LLSaySo7UIColorCGvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB10BeamColors33_AD23B705D0DA5FFF91C804BE9814CAF5LLSaySo7UIColorCGvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToLevel",
+            "printedName": "combinaToLevel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB5Level33_AD23B705D0DA5FFF91C804BE9814CAF5LLSivp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB5Level33_AD23B705D0DA5FFF91C804BE9814CAF5LLSivp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToScore",
+            "printedName": "combinaToScore",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB5Score33_AD23B705D0DA5FFF91C804BE9814CAF5LLSivp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB5Score33_AD23B705D0DA5FFF91C804BE9814CAF5LLSivp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToColorBlock",
+            "printedName": "combinaToColorBlock",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB10ColorBlock33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo6UIViewCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB10ColorBlock33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo6UIViewCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToTargetColorView",
+            "printedName": "combinaToTargetColorView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinab11TargetColorF033_AD23B705D0DA5FFF91C804BE9814CAF5LLSo6UIViewCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinab11TargetColorF033_AD23B705D0DA5FFF91C804BE9814CAF5LLSo6UIViewCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToBeamButtons",
+            "printedName": "combinaToBeamButtons",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIButton]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB11BeamButtons33_AD23B705D0DA5FFF91C804BE9814CAF5LLSaySo8UIButtonCGvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB11BeamButtons33_AD23B705D0DA5FFF91C804BE9814CAF5LLSaySo8UIButtonCGvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToResetButton",
+            "printedName": "combinaToResetButton",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB11ResetButton33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo8UIButtonCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB11ResetButton33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo8UIButtonCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToLevelLabel",
+            "printedName": "combinaToLevelLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB10LevelLabel33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UILabelCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB10LevelLabel33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UILabelCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 9,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToScoreLabel",
+            "printedName": "combinaToScoreLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UILabel",
+                "printedName": "UIKit.UILabel",
+                "usr": "c:objc(cs)UILabel"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB10ScoreLabel33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UILabelCvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB10ScoreLabel33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo7UILabelCvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 10,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToBeamContainer",
+            "printedName": "combinaToBeamContainer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImageView",
+                "printedName": "UIKit.UIImageView",
+                "usr": "c:objc(cs)UIImageView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB8GameViewC07combinaB13BeamContainer33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo07UIImageF0Cvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC07combinaB13BeamContainer33_AD23B705D0DA5FFF91C804BE9814CAF5LLSo07UIImageF0Cvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 11,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToGameView",
+                "printedName": "CombinaToBxieiTsmks.CombinaToGameView",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToGameView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToGameView(im)initWithFrame:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CombinaToBxieiTsmks.CombinaToGameView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToGameView",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToGameView",
+                    "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToGameView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToGameView(im)initWithCoder:",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToGameView",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB8GameViewC",
+        "moduleName": "CombinaToBxieiTsmks",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Function",
+        "name": "dpt",
+        "printedName": "dpt(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks3dptySSSgSSF",
+        "mangledName": "$s19CombinaToBxieiTsmks3dptySSSgSSF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kCombinaToOCPaejtenHeoudrt",
+        "printedName": "kCombinaToOCPaejtenHeoudrt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19CombinaToBxieiTsmks01kaB16OCPaejtenHeoudrtSSvp",
+        "mangledName": "$s19CombinaToBxieiTsmks01kaB16OCPaejtenHeoudrtSSvp",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kcombinaToTsueOmHEY",
+        "printedName": "kcombinaToTsueOmHEY",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19CombinaToBxieiTsmks08kcombinaB9TsueOmHEYSSvp",
+        "mangledName": "$s19CombinaToBxieiTsmks08kcombinaB9TsueOmHEYSSvp",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kcombinaToBxndsopeNueis",
+        "printedName": "kcombinaToBxndsopeNueis",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19CombinaToBxieiTsmks08kcombinaB13BxndsopeNueisSSvp",
+        "mangledName": "$s19CombinaToBxieiTsmks08kcombinaB13BxndsopeNueisSSvp",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "KcombinaToYyehjsGyrh",
+        "printedName": "KcombinaToYyehjsGyrh",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19CombinaToBxieiTsmks08KcombinaB10YyehjsGyrhSSvp",
+        "mangledName": "$s19CombinaToBxieiTsmks08KcombinaB10YyehjsGyrhSSvp",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "kcombinaToSjeusTnbjs",
+        "printedName": "kcombinaToSjeusTnbjs",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:19CombinaToBxieiTsmks08kcombinaB10SjeusTnbjsSSvp",
+        "mangledName": "$s19CombinaToBxieiTsmks08kcombinaB10SjeusTnbjsSSvp",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaToIuehsHHS",
+        "printedName": "CombinaToIuehsHHS()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0aB8IuehsHHSyyF",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB8IuehsHHSyyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaTotRSYENhUISE",
+        "printedName": "CombinaTotRSYENhUISE()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0A13TotRSYENhUISEyyF",
+        "mangledName": "$s19CombinaToBxieiTsmks0A13TotRSYENhUISEyyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaTooIEIUJSMJ",
+        "printedName": "CombinaTooIEIUJSMJ()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0A11TooIEIUJSMJyyF",
+        "mangledName": "$s19CombinaToBxieiTsmks0A11TooIEIUJSMJyyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaToGseibnenRTus",
+        "printedName": "CombinaToGseibnenRTus()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0aB12GseibnenRTusyyF",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB12GseibnenRTusyyF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaToCXoieiTysjn",
+        "printedName": "CombinaToCXoieiTysjn(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "CombinaToMauirea",
+            "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0aB11CXoieiTysjnyyAA0aB7MauireaVF",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB11CXoieiTysjnyyAA0aB7MauireaVF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "CombinaToRestyens",
+        "printedName": "CombinaToRestyens(param:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "CombinaToMauirea",
+            "printedName": "CombinaToBxieiTsmks.CombinaToMauirea",
+            "usr": "s:19CombinaToBxieiTsmks0aB7MauireaV"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:19CombinaToBxieiTsmks0aB8Restyens5paramyAA0aB7MauireaV_tF",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB8Restyens5paramyAA0aB7MauireaV_tF",
+        "moduleName": "CombinaToBxieiTsmks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToLioodZoiryds",
+        "printedName": "CombinaToLioodZoiryds",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "combinaToShared",
+            "printedName": "combinaToShared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToLioodZoiryds",
+                "printedName": "CombinaToBxieiTsmks.CombinaToLioodZoiryds",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds(cpy)combinaToShared",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB6SharedACvpZ",
+            "moduleName": "CombinaToBxieiTsmks",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CombinaToLioodZoiryds",
+                    "printedName": "CombinaToBxieiTsmks.CombinaToLioodZoiryds",
+                    "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds(cm)combinaToShared",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB6SharedACvgZ",
+                "moduleName": "CombinaToBxieiTsmks",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "combinaToVios",
+            "printedName": "combinaToVios",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvp",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvp",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvg",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvg",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvs",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvs",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvM",
+                "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB4ViosSo16UIViewControllerCSgvM",
+                "moduleName": "CombinaToBxieiTsmks",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "combinaToOieksjNmaje",
+            "printedName": "combinaToOieksjNmaje(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB11OieksjNmajeyySo16UIViewControllerCF",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC07combinaB11OieksjNmajeyySo16UIViewControllerCF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToLioodZoiryds",
+                "printedName": "CombinaToBxieiTsmks.CombinaToLioodZoiryds",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds(im)init",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsCACycfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToLioodZoiryds",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB12LioodZoirydsC",
+        "moduleName": "CombinaToBxieiTsmks",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CombinaToBxieiTsmks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CombinaToPaejtenHeoudrt",
+        "printedName": "CombinaToPaejtenHeoudrt",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "CombinaToBysieVioesTahsy",
+            "printedName": "CombinaToBysieVioesTahsy()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19CombinaToBxieiTsmks0aB14PaejtenHeoudrtC0aB15BysieVioesTahsyyyFZ",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB14PaejtenHeoudrtC0aB15BysieVioesTahsyyyFZ",
+            "moduleName": "CombinaToBxieiTsmks",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "combinaToTsueOmHEY",
+            "printedName": "combinaToTsueOmHEY()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToOCPaejtenHeoudrt(cm)combinaToTsueOmHEY",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB14PaejtenHeoudrtC07combinaB9TsueOmHEYyyFZ",
+            "moduleName": "CombinaToBxieiTsmks",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CombinaToPaejtenHeoudrt",
+                "printedName": "CombinaToBxieiTsmks.CombinaToPaejtenHeoudrt",
+                "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToOCPaejtenHeoudrt"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToOCPaejtenHeoudrt(im)init",
+            "mangledName": "$s19CombinaToBxieiTsmks0aB14PaejtenHeoudrtCACycfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CombinaToBxieiTsmks@objc(cs)CombinaToOCPaejtenHeoudrt",
+        "mangledName": "$s19CombinaToBxieiTsmks0aB14PaejtenHeoudrtC",
+        "moduleName": "CombinaToBxieiTsmks",
+        "isOpen": true,
+        "objc_name": "CombinaToOCPaejtenHeoudrt",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "String",
+        "printedName": "String",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "stringTo",
+            "printedName": "stringTo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : AnyObject]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : AnyObject]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:SS19CombinaToBxieiTsmksE06stringB0SDySSyXlGSgyF",
+            "mangledName": "$sSS19CombinaToBxieiTsmksE06stringB0SDySSyXlGSgyF",
+            "moduleName": "CombinaToBxieiTsmks",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:SS",
+        "mangledName": "$sSS",
+        "moduleName": "Swift",
+        "declAttributes": [
+          "EagerMove",
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CodingKeyRepresentable",
+            "printedName": "CodingKeyRepresentable",
+            "usr": "s:s22CodingKeyRepresentableP",
+            "mangledName": "$ss22CodingKeyRepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasContiguousBytes",
+            "printedName": "_HasContiguousBytes",
+            "usr": "s:s19_HasContiguousBytesP",
+            "mangledName": "$ss19_HasContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_CustomPlaygroundQuickLookable",
+            "printedName": "_CustomPlaygroundQuickLookable",
+            "usr": "s:s30_CustomPlaygroundQuickLookableP",
+            "mangledName": "$ss30_CustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStream",
+            "printedName": "TextOutputStream",
+            "usr": "s:s16TextOutputStreamP",
+            "mangledName": "$ss16TextOutputStreamP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TextOutputStreamable",
+            "printedName": "TextOutputStreamable",
+            "usr": "s:s20TextOutputStreamableP",
+            "mangledName": "$ss20TextOutputStreamableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "printedName": "_ExpressibleByBuiltinUnicodeScalarLiteral",
+            "usr": "s:s41_ExpressibleByBuiltinUnicodeScalarLiteralP",
+            "mangledName": "$ss41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "printedName": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
+            "usr": "s:s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByBuiltinStringLiteral",
+            "printedName": "_ExpressibleByBuiltinStringLiteral",
+            "usr": "s:s34_ExpressibleByBuiltinStringLiteralP",
+            "mangledName": "$ss34_ExpressibleByBuiltinStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringLiteral",
+            "printedName": "ExpressibleByStringLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringLiteralType",
+                "printedName": "StringLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s26ExpressibleByStringLiteralP",
+            "mangledName": "$ss26ExpressibleByStringLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "printedName": "ExpressibleByExtendedGraphemeClusterLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ExtendedGraphemeClusterLiteralType",
+                "printedName": "ExtendedGraphemeClusterLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s43ExpressibleByExtendedGraphemeClusterLiteralP",
+            "mangledName": "$ss43ExpressibleByExtendedGraphemeClusterLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByUnicodeScalarLiteral",
+            "printedName": "ExpressibleByUnicodeScalarLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarLiteralType",
+                "printedName": "UnicodeScalarLiteralType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s33ExpressibleByUnicodeScalarLiteralP",
+            "mangledName": "$ss33ExpressibleByUnicodeScalarLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BidirectionalCollection",
+            "printedName": "BidirectionalCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SK",
+            "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Index",
+                    "printedName": "Swift.String.Index",
+                    "usr": "s:SS5IndexV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultIndices",
+                    "printedName": "Swift.DefaultIndices<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SI"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Character",
+                    "printedName": "Swift.Character",
+                    "usr": "s:SJ"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Iterator",
+                    "printedName": "Swift.String.Iterator",
+                    "usr": "s:SS8IteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Comparable",
+            "printedName": "Comparable",
+            "usr": "s:SL",
+            "mangledName": "$sSL"
+          },
+          {
+            "kind": "Conformance",
+            "name": "StringProtocol",
+            "printedName": "StringProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UTF8View",
+                "printedName": "UTF8View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF8View",
+                    "printedName": "Swift.String.UTF8View",
+                    "usr": "s:SS8UTF8ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UTF16View",
+                "printedName": "UTF16View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UTF16View",
+                    "printedName": "Swift.String.UTF16View",
+                    "usr": "s:SS9UTF16ViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "UnicodeScalarView",
+                "printedName": "UnicodeScalarView",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UnicodeScalarView",
+                    "printedName": "Swift.String.UnicodeScalarView",
+                    "usr": "s:SS17UnicodeScalarViewV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sy",
+            "mangledName": "$sSy"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByStringInterpolation",
+            "printedName": "ExpressibleByStringInterpolation",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "StringInterpolation",
+                "printedName": "StringInterpolation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DefaultStringInterpolation",
+                    "printedName": "Swift.DefaultStringInterpolation",
+                    "usr": "s:s26DefaultStringInterpolationV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s32ExpressibleByStringInterpolationP",
+            "mangledName": "$ss32ExpressibleByStringInterpolationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "LosslessStringConvertible",
+            "printedName": "LosslessStringConvertible",
+            "usr": "s:s25LosslessStringConvertibleP",
+            "mangledName": "$ss25LosslessStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Substring",
+                    "printedName": "Swift.Substring",
+                    "usr": "s:Ss"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MirrorPath",
+            "printedName": "MirrorPath",
+            "usr": "s:s10MirrorPathP",
+            "mangledName": "$ss10MirrorPathP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSString",
+                    "printedName": "Foundation.NSString",
+                    "usr": "c:objc(cs)NSString"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Transferable",
+            "printedName": "Transferable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Representation",
+                "printedName": "Representation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some CoreTransferable.TransferRepresentation",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TransferRepresentation",
+                        "printedName": "CoreTransferable.TransferRepresentation",
+                        "usr": "s:16CoreTransferable22TransferRepresentationP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:16CoreTransferable0B0P",
+            "mangledName": "$s16CoreTransferable0B0P"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ImageRequestConvertible",
+            "printedName": "ImageRequestConvertible",
+            "usr": "s:4Nuke23ImageRequestConvertibleP",
+            "mangledName": "$s4Nuke23ImageRequestConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC19CombinaToBxieiTsmksE3hex5alphaABSi_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC19CombinaToBxieiTsmksE3hex5alphaABSi_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hexString:alpha:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC19CombinaToBxieiTsmksE9hexString5alphaABSgSS_14CoreFoundation7CGFloatVtcfc",
+            "mangledName": "$sSo7UIColorC19CombinaToBxieiTsmksE9hexString5alphaABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "moduleName": "CombinaToBxieiTsmks",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToUndi4eyMoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7532,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToYdokeMas.swift",
+      "kind": "FloatLiteral",
+      "offset": 1505,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToYdokeMas.swift",
+      "kind": "FloatLiteral",
+      "offset": 1800,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 305,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToGameView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToGameView.swift",
+      "kind": "Array",
+      "offset": 526,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 1055,
+      "length": 38,
+      "value": "\"LAACDQYBDjsAICw\/DgoFGwoBJwoAGgsdGw==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 1129,
+      "length": 26,
+      "value": "\"DAACDQYBDjsAOxwaCiACJyo2\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 1235,
+      "length": 34,
+      "value": "\"DAACDQYBDjsALRcBCxwAHwohGgoGHA==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 1333,
+      "length": 86,
+      "value": "\"BxsbHxxVQEBZVw4NDgoOVlgOXw0NClZdDA0NV19WX15BAgAMBA4fBkEGAEAMAAINCgYcQBsAAgwAAg4KDAAC\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 1533,
+      "length": 94,
+      "value": "\"BxsbHxxVQEAdDhhBCAYbBxoNGhwKHQwAARsKARtBDAACQAkVBV1YX1taXVhbWUAsAAINBkACDgYBQAwAAg0IQQUfCA==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0825-1\/CombinaToBxieiTsmks\/CombinaToBxieiTsmks\/CombinaToKkrisutBsas.swift",
+      "kind": "StringLiteral",
+      "offset": 3055,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
