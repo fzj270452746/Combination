@@ -6,5 +6,5 @@ target 'Combination' do
   use_frameworks!
 
   # Pods for Combination
-  pod 'Nuke'
+
 end

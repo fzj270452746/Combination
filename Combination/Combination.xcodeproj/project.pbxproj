@@ -7,28 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5999EB5A8884B57BD77CC5E5 /* Pods_Combination.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1849F313C599F3AA841A9A7 /* Pods_Combination.framework */; };
 		FE0069AE2E59626000565593 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE0069A32E59626000565593 /* Assets.xcassets */; };
 		FE0069B02E59626000565593 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE0069A72E59626000565593 /* LaunchScreen.storyboard */; };
 		FE0069B12E59626000565593 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE0069A92E59626000565593 /* Main.storyboard */; };
 		FE0069B32E59626000565593 /* Combination.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FE0069A42E59626000565593 /* Combination.xcdatamodeld */; };
 		FE006A2E2E59B0EA00565593 /* CombinatioImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A282E59B0EA00565593 /* CombinatioImages.swift */; };
-		FE006A2F2E59B0EA00565593 /* ZhuMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2C2E59B0EA00565593 /* ZhuMenuVC.swift */; };
-		FE006A302E59B0EA00565593 /* YonghuFankuiVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2B2E59B0EA00565593 /* YonghuFankuiVC.swift */; };
+		FE006A2F2E59B0EA00565593 /* MainMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2C2E59B0EA00565593 /* MainMenuVC.swift */; };
+		FE006A302E59B0EA00565593 /* UserFeedbackVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2B2E59B0EA00565593 /* UserFeedbackVC.swift */; };
 		FE006A312E59B0EA00565593 /* CombinationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A292E59B0EA00565593 /* CombinationModel.swift */; };
 		FE006A322E59B0EA00565593 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A272E59B0EA00565593 /* AppDelegate.swift */; };
-		FE006A332E59B0EA00565593 /* ZhuYouxiVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2D2E59B0EA00565593 /* ZhuYouxiVC.swift */; };
+		FE006A332E59B0EA00565593 /* MainGameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2D2E59B0EA00565593 /* MainGameVC.swift */; };
 		FE006A342E59B0EA00565593 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A2A2E59B0EA00565593 /* SceneDelegate.swift */; };
-		FE006A372E59B83600565593 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A362E59B83600565593 /* ViewController.swift */; };
-		FE006A3A2E59C9B500565593 /* RatingToCombVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A392E59C9B500565593 /* RatingToCombVC.swift */; };
-		FE006A3B2E59C9B500565593 /* RecordToComb.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A382E59C9B500565593 /* RecordToComb.swift */; };
-		FE006A3D2E59C9E800565593 /* SendFeedbackVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A3C2E59C9E800565593 /* SendFeedbackVC.swift */; };
+		FE006A372E59B83600565593 /* CombinationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A362E59B83600565593 /* CombinationVC.swift */; };
+		FE006A3A2E59C9B500565593 /* RatingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A392E59C9B500565593 /* RatingVC.swift */; };
+		FE006A3B2E59C9B500565593 /* GameRecordsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A382E59C9B500565593 /* GameRecordsVC.swift */; };
+		FE006A3D2E59C9E800565593 /* FeedbackVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE006A3C2E59C9E800565593 /* FeedbackVC.swift */; };
+		FF5099092D5E6778E5FEF5EA /* Pods_Combination.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2436AD9EB9B850C25E92C248 /* Pods_Combination.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		029B0970A81C963C67610C3B /* Pods-Combination.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.release.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.release.xcconfig"; sourceTree = "<group>"; };
-		8E52378EF09C495B22694780 /* Pods-Combination.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.debug.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.debug.xcconfig"; sourceTree = "<group>"; };
-		E1849F313C599F3AA841A9A7 /* Pods_Combination.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Combination.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		20ADBC4CA601EF408B9EEA86 /* Pods-Combination.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.debug.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.debug.xcconfig"; sourceTree = "<group>"; };
+		2436AD9EB9B850C25E92C248 /* Pods_Combination.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Combination.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8A4DF322AEAD7E055495FEC /* Pods-Combination.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combination.release.xcconfig"; path = "Target Support Files/Pods-Combination/Pods-Combination.release.xcconfig"; sourceTree = "<group>"; };
 		FE0069872E59624D00565593 /* Combination.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Combination.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE0069A32E59626000565593 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE0069A52E59626000565593 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -39,13 +39,13 @@
 		FE006A282E59B0EA00565593 /* CombinatioImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinatioImages.swift; sourceTree = "<group>"; };
 		FE006A292E59B0EA00565593 /* CombinationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationModel.swift; sourceTree = "<group>"; };
 		FE006A2A2E59B0EA00565593 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FE006A2B2E59B0EA00565593 /* YonghuFankuiVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YonghuFankuiVC.swift; sourceTree = "<group>"; };
-		FE006A2C2E59B0EA00565593 /* ZhuMenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhuMenuVC.swift; sourceTree = "<group>"; };
-		FE006A2D2E59B0EA00565593 /* ZhuYouxiVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhuYouxiVC.swift; sourceTree = "<group>"; };
-		FE006A362E59B83600565593 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FE006A382E59C9B500565593 /* RecordToComb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordToComb.swift; sourceTree = "<group>"; };
-		FE006A392E59C9B500565593 /* RatingToCombVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingToCombVC.swift; sourceTree = "<group>"; };
-		FE006A3C2E59C9E800565593 /* SendFeedbackVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendFeedbackVC.swift; sourceTree = "<group>"; };
+		FE006A2B2E59B0EA00565593 /* UserFeedbackVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFeedbackVC.swift; sourceTree = "<group>"; };
+		FE006A2C2E59B0EA00565593 /* MainMenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuVC.swift; sourceTree = "<group>"; };
+		FE006A2D2E59B0EA00565593 /* MainGameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainGameVC.swift; sourceTree = "<group>"; };
+		FE006A362E59B83600565593 /* CombinationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationVC.swift; sourceTree = "<group>"; };
+		FE006A382E59C9B500565593 /* GameRecordsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameRecordsVC.swift; sourceTree = "<group>"; };
+		FE006A392E59C9B500565593 /* RatingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingVC.swift; sourceTree = "<group>"; };
+		FE006A3C2E59C9E800565593 /* FeedbackVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,26 +53,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5999EB5A8884B57BD77CC5E5 /* Pods_Combination.framework in Frameworks */,
+				FF5099092D5E6778E5FEF5EA /* Pods_Combination.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		85697202ACCC1602E053A5BC /* Pods */ = {
+		1B1C9BC29E3F33F4B34065FF /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8E52378EF09C495B22694780 /* Pods-Combination.debug.xcconfig */,
-				029B0970A81C963C67610C3B /* Pods-Combination.release.xcconfig */,
+				20ADBC4CA601EF408B9EEA86 /* Pods-Combination.debug.xcconfig */,
+				E8A4DF322AEAD7E055495FEC /* Pods-Combination.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		D28CD5D66AA764418875C7D6 /* Frameworks */ = {
+		530F02853492F33FA3C6795D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E1849F313C599F3AA841A9A7 /* Pods_Combination.framework */,
+				2436AD9EB9B850C25E92C248 /* Pods_Combination.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -82,8 +82,8 @@
 			children = (
 				FE0069AC2E59626000565593 /* Combination */,
 				FE0069882E59624D00565593 /* Products */,
-				85697202ACCC1602E053A5BC /* Pods */,
-				D28CD5D66AA764418875C7D6 /* Frameworks */,
+				1B1C9BC29E3F33F4B34065FF /* Pods */,
+				530F02853492F33FA3C6795D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -100,7 +100,8 @@
 			children = (
 				FE006A272E59B0EA00565593 /* AppDelegate.swift */,
 				FE006A2A2E59B0EA00565593 /* SceneDelegate.swift */,
-				FE006A3E2E59DAA600565593 /* ModelImages */,
+				FE006A282E59B0EA00565593 /* CombinatioImages.swift */,
+				FE006A292E59B0EA00565593 /* CombinationModel.swift */,
 				FE006A3F2E59DABB00565593 /* CombForVC */,
 				FE0069A32E59626000565593 /* Assets.xcassets */,
 				FE0069A42E59626000565593 /* Combination.xcdatamodeld */,
@@ -111,25 +112,16 @@
 			path = Combination;
 			sourceTree = "<group>";
 		};
-		FE006A3E2E59DAA600565593 /* ModelImages */ = {
-			isa = PBXGroup;
-			children = (
-				FE006A282E59B0EA00565593 /* CombinatioImages.swift */,
-				FE006A292E59B0EA00565593 /* CombinationModel.swift */,
-			);
-			path = ModelImages;
-			sourceTree = "<group>";
-		};
 		FE006A3F2E59DABB00565593 /* CombForVC */ = {
 			isa = PBXGroup;
 			children = (
-				FE006A362E59B83600565593 /* ViewController.swift */,
-				FE006A2B2E59B0EA00565593 /* YonghuFankuiVC.swift */,
-				FE006A2C2E59B0EA00565593 /* ZhuMenuVC.swift */,
-				FE006A3C2E59C9E800565593 /* SendFeedbackVC.swift */,
-				FE006A2D2E59B0EA00565593 /* ZhuYouxiVC.swift */,
-				FE006A382E59C9B500565593 /* RecordToComb.swift */,
-				FE006A392E59C9B500565593 /* RatingToCombVC.swift */,
+				FE006A362E59B83600565593 /* CombinationVC.swift */,
+				FE006A2B2E59B0EA00565593 /* UserFeedbackVC.swift */,
+				FE006A2C2E59B0EA00565593 /* MainMenuVC.swift */,
+				FE006A3C2E59C9E800565593 /* FeedbackVC.swift */,
+				FE006A2D2E59B0EA00565593 /* MainGameVC.swift */,
+				FE006A382E59C9B500565593 /* GameRecordsVC.swift */,
+				FE006A392E59C9B500565593 /* RatingVC.swift */,
 			);
 			path = CombForVC;
 			sourceTree = "<group>";
@@ -141,11 +133,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FE00699D2E59624F00565593 /* Build configuration list for PBXNativeTarget "Combination" */;
 			buildPhases = (
-				3DCA726FE52BE8BD8AC295EE /* [CP] Check Pods Manifest.lock */,
+				B7C7A7B8D44436A42A0AFED9 /* [CP] Check Pods Manifest.lock */,
 				FE0069832E59624D00565593 /* Sources */,
 				FE0069842E59624D00565593 /* Frameworks */,
 				FE0069852E59624D00565593 /* Resources */,
-				97C6CB26C28FE1BCC87E2138 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -205,7 +196,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		3DCA726FE52BE8BD8AC295EE /* [CP] Check Pods Manifest.lock */ = {
+		B7C7A7B8D44436A42A0AFED9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -227,27 +218,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		97C6CB26C28FE1BCC87E2138 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Combination/Pods-Combination-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Combination/Pods-Combination-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Combination/Pods-Combination-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -256,15 +226,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE006A2E2E59B0EA00565593 /* CombinatioImages.swift in Sources */,
-				FE006A2F2E59B0EA00565593 /* ZhuMenuVC.swift in Sources */,
-				FE006A3A2E59C9B500565593 /* RatingToCombVC.swift in Sources */,
-				FE006A3B2E59C9B500565593 /* RecordToComb.swift in Sources */,
-				FE006A302E59B0EA00565593 /* YonghuFankuiVC.swift in Sources */,
-				FE006A372E59B83600565593 /* ViewController.swift in Sources */,
+				FE006A2F2E59B0EA00565593 /* MainMenuVC.swift in Sources */,
+				FE006A3A2E59C9B500565593 /* RatingVC.swift in Sources */,
+				FE006A3B2E59C9B500565593 /* GameRecordsVC.swift in Sources */,
+				FE006A302E59B0EA00565593 /* UserFeedbackVC.swift in Sources */,
+				FE006A372E59B83600565593 /* CombinationVC.swift in Sources */,
 				FE006A312E59B0EA00565593 /* CombinationModel.swift in Sources */,
-				FE006A3D2E59C9E800565593 /* SendFeedbackVC.swift in Sources */,
+				FE006A3D2E59C9E800565593 /* FeedbackVC.swift in Sources */,
 				FE006A322E59B0EA00565593 /* AppDelegate.swift in Sources */,
-				FE006A332E59B0EA00565593 /* ZhuYouxiVC.swift in Sources */,
+				FE006A332E59B0EA00565593 /* MainGameVC.swift in Sources */,
 				FE006A342E59B0EA00565593 /* SceneDelegate.swift in Sources */,
 				FE0069B32E59626000565593 /* Combination.xcdatamodeld in Sources */,
 			);
@@ -294,17 +264,13 @@
 /* Begin XCBuildConfiguration section */
 		FE00699E2E59624F00565593 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8E52378EF09C495B22694780 /* Pods-Combination.debug.xcconfig */;
+			baseConfigurationReference = 20ADBC4CA601EF408B9EEA86 /* Pods-Combination.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEPLOYMENT_POSTPROCESSING = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Combination/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong ToCombination";
@@ -322,7 +288,6 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Combination.tolianhe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_STYLE = "non-global";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -336,17 +301,13 @@
 		};
 		FE00699F2E59624F00565593 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 029B0970A81C963C67610C3B /* Pods-Combination.release.xcconfig */;
+			baseConfigurationReference = E8A4DF322AEAD7E055495FEC /* Pods-Combination.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEPLOYMENT_POSTPROCESSING = YES;
-				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Combination/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Mahjong ToCombination";
@@ -364,7 +325,6 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.Combination.tolianhe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRIP_STYLE = "non-global";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
